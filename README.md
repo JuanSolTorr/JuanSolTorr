@@ -20,13 +20,13 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un **Full Stack Developer** con base en Madrid, especializado en el ecosistema Microsoft y Arquitectura Cloud. [cite_start]Tengo experiencia sólida desarrollando aplicaciones con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL[cite: 6, 22, 23, 24].
+Soy un **Full Stack Developer** con base en Madrid, especializado en el ecosistema Microsoft y Arquitectura Cloud. Tengo experiencia sólida desarrollando aplicaciones con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL.
 
 [cite_start]Me diferencio por mi enfoque en la **calidad del código** (Testing/QA) y la capacidad de desplegar infraestructuras escalables en **Azure y AWS**[cite: 2, 8, 25].
 
-* [cite_start]💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend C# + Frontend Web + Scrum)[cite: 21, 26].
-* [cite_start]🎯 **Objetivo:** Proyectos de Arquitectura Cloud, Microservicios y soluciones de alto impacto[cite: 9].
-* [cite_start]🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional)[cite: 41, 42].
+* 💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend Python + Frontend Web).
+* 🎯 **Objetivo:** Proyectos de Arquitectura Cloud, Microservicios y soluciones de alto impacto.
+* 🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional).
 
 ---
 
@@ -42,8 +42,8 @@ Soy un **Full Stack Developer** con base en Madrid, especializado en el ecosiste
 
 ### 🎓 Formación Académica
 
-* 🎓 **Máster Full Stack & Cloud Computing** | [cite_start]Tajamar (2025) [cite: 34]
-* 🎓 **Grado Superior Desarrollo de Aplicaciones Web** | [cite_start]Valle del Miro (2025) [cite: 34]
+* 🎓 **Máster Full Stack & Cloud Computing** | Tajamar (2025)
+* 🎓 **Grado Superior Desarrollo de Aplicaciones Web** | Valle del Miro (2025)
 
 ---
 
@@ -63,8 +63,8 @@ Mi perfil es híbrido, combinando desarrollo robusto en Backend con agilidad en 
 
 ### 📂 Proyectos Técnicos
 
-* [cite_start]**App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud[cite: 31].
-* [cite_start]**API Ecommerce:** Backend RESTful desarrollado con **C# y Entity Framework**, enfocado en autenticación segura y optimización de rendimiento[cite: 32].
+* **App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud.
+* **API Ecommerce:** Backend RESTful desarrollado con **C# y Entity Framework**, enfocado en autenticación segura y optimización de rendimiento.
 
 ---
 
