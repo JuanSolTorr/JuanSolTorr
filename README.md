@@ -36,7 +36,7 @@ Actualmente, estoy enfocado en el desarrollo de soluciones escalables en la nube
   <img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate_(DVA--C02)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&color=FF9900" alt="AWS Certified"/>
   <img src="https://img.shields.io/badge/Microsoft-Azure_Developer_Associate_(AZ--204)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/>
   <a href="https://learn.microsoft.com/api/credentials/share/es-es/JuanSolsTorrijos-6194/90131476C10236D3?sharingId=2B031EBC00DE3659" target="_blank">
-    <img src="[URL_DE_LA_IMAGEN_DE_CREDLY](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg)" width="110" alt="Microsoft PL-400 Badge"/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110" alt="Microsoft PL-400 Badge"/>
   </a>
 </div>
 
