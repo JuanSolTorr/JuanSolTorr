@@ -24,7 +24,7 @@ Soy un **Full Stack Developer** con base en Madrid, especializado en el ecosiste
 
 Me diferencio por mi enfoque en la **calidad del código** (Testing/QA) y la capacidad de desplegar infraestructuras escalables en **Azure y AWS**.
 
-* 💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend C# + Frontend Web + Scrum).
+* 💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend Python + Frontend Web).
 * 🎯 **Objetivo:** Proyectos de Arquitectura Cloud, Microservicios y soluciones de alto impacto.
 * 🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional).
 
