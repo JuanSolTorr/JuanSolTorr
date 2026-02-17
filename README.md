@@ -22,7 +22,7 @@
 
 Soy un **Full Stack Developer** con base en Madrid, especializado en el ecosistema Microsoft y Arquitectura Cloud. Tengo experiencia sólida desarrollando aplicaciones con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL.
 
-[cite_start]Me diferencio por mi enfoque en la **calidad del código** (Testing/QA) y la capacidad de desplegar infraestructuras escalables en **Azure y AWS**[cite: 2, 8, 25].
+Me diferencio por mi enfoque en la **calidad del código** (Testing/QA) y la capacidad de desplegar infraestructuras escalables en **Azure y AWS**.
 
 * 💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend Python + Frontend Web).
 * 🎯 **Objetivo:** Proyectos de Arquitectura Cloud, Microservicios y soluciones de alto impacto.
