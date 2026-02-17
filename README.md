@@ -66,13 +66,3 @@ Mi perfil es híbrido, combinando desarrollo robusto en Backend con agilidad en 
 
 * **App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud.
 * **API Ecommerce:** Backend RESTful desarrollado con **C# y Entity Framework**, enfocado en autenticación segura (JWT) y optimización de rendimiento.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanSolTorr&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=0d1117" alt="Juan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSolTorr&layout=compact&theme=midnight-owl&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Langs" />
-</div>
