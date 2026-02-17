@@ -20,13 +20,13 @@
 
 ### 👨‍💻 Sobre mí
 
-[cite_start]Soy un **Full Stack Developer** con base en Madrid[cite: 3], especializado en tecnologías Microsoft y Arquitectura Cloud. [cite_start]Tengo experiencia sólida desarrollando aplicaciones web con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL[cite: 6, 22, 23, 24].
+Soy un **Full Stack Developer** con base en Madrid, especializado en tecnologías Microsoft y Arquitectura Cloud. Tengo experiencia sólida desarrollando aplicaciones web con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL.
 
-[cite_start]Actualmente, estoy enfocado en el desarrollo de soluciones escalables en la nube, combinando **Azure** y **AWS** para crear productos digitales de alto impacto[cite: 9].
+Actualmente, estoy enfocado en el desarrollo de soluciones escalables en la nube, combinando **Azure** y **AWS** para crear productos digitales de alto impacto.
 
-* [cite_start]💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend C# + Frontend Web)[cite: 21].
+* 💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend C# + Frontend Web).
 * 🎯 **Objetivo:** Proyectos de arquitectura Cloud y desarrollo escalable.
-* [cite_start]🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional)[cite: 41].
+* 🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional).
 
 ---
 
@@ -42,19 +42,19 @@
 
 ### 🛠️ Tech Stack
 
-[cite_start]Mi perfil es híbrido, con fuerte dominio del backend en C# y capacidad de despliegue en múltiples nubes[cite: 36, 38].
+Mi perfil es híbrido, con fuerte dominio del backend en C# y capacidad de despliegue en múltiples nubes.
 
 | **Cloud & DevOps** | **Backend & Lenguajes** | **Frontend & Web** | **Bases de Datos** |
 |:---:|:---:|:---:|:---:|
 | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) |
-| ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=powerapps&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
+| ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=powerapps&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) |
+| | | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
 
 ---
 
 ### 📂 Proyectos Destacados
 
-* [cite_start]**App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud[cite: 31].
-* [cite_start]**API Ecommerce:** Backend RESTful desarrollado con C# y Entity Framework, enfocado en autenticación segura y rendimiento[cite: 32].
-
+* **App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud.
+* **API Ecommerce:** Backend RESTful desarrollado con C# y Entity Framework, enfocado en autenticación segura y rendimiento.
