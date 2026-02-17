@@ -1,21 +1,18 @@
 <div align="center">
   <h1 align="center">Hola, soy Juan Solís Torrijos 👋</h1>
-  <h3 align="center">🚀 Desarrollador Web & Cloud Architect</h3>
+  <h3 align="center">☁️ Full Stack Developer (.NET | Azure | AWS)</h3>
   
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=JuanSolTorr&label=Profile%20Views&color=0e75b6&style=flat" alt="JuanSolTorr" /> 
-  </p>
-
   <p align="center">
-    <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/juan-solis-torrijos/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:tu-email@ejemplo.com">
+    <a href="mailto:juan.solis.torrijos1@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://tu-portfolio-web.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Web-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
-    </a>
+  </p>
+
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=JuanSolTorr&label=Profile%20Views&color=0078d4&style=flat" alt="JuanSolTorr" /> 
   </p>
 </div>
 
@@ -23,38 +20,41 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un apasionado de la tecnología enfocado en la construcción de aplicaciones web escalables y arquitecturas en la nube resilientes. Me especializo en conectar el desarrollo de software moderno con la infraestructura como código.
+[cite_start]Soy un **Full Stack Developer** con base en Madrid[cite: 3], especializado en tecnologías Microsoft y Arquitectura Cloud. [cite_start]Tengo experiencia sólida desarrollando aplicaciones web con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL[cite: 6, 22, 23, 24].
 
-* 🔭 Actualmente trabajando en: **Arquitecturas Serverless y Microservicios.**
-* 🌱 Aprendiendo: **Kubernetes avanzado y AI Ops.**
-* ⚡ Dato curioso: Puedo desplegar una infraestructura completa mientras se compila el frontend.
+[cite_start]Actualmente, estoy enfocado en el desarrollo de soluciones escalables en la nube, combinando **Azure** y **AWS** para crear productos digitales de alto impacto[cite: 9].
 
----
-
-### 🛠️ Tech Stack & Herramientas
-
-Como perfil híbrido, manejo tanto el código de aplicación como la infraestructura que lo soporta.
-
-| **Cloud & DevOps** | **Backend & API** | **Frontend & Web** |
-|:---:|:---:|:---:|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
-| ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
+* [cite_start]💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend C# + Frontend Web)[cite: 21].
+* 🎯 **Objetivo:** Proyectos de arquitectura Cloud y desarrollo escalable.
+* [cite_start]🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional)[cite: 41].
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Certificaciones Cloud & Dev
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanSolTorr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Juan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSolTorr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate_(DVA--C02)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&color=FF9900" alt="AWS Certified"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Developer_Associate_(AZ--204)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Certified"/>
+  <img src="https://img.shields.io/badge/Microsoft-Power_Platform_Developer_(PL--400)-742774?style=flat-square&logo=powerpages&logoColor=white" alt="Power Platform Certified"/>
 </div>
 
 ---
 
-<div align="center">
-  <p><i>"La arquitectura es la decisión de lo que no vas a hacer."</i></p>
-</div>
+### 🛠️ Tech Stack
+
+[cite_start]Mi perfil es híbrido, con fuerte dominio del backend en C# y capacidad de despliegue en múltiples nubes[cite: 36, 38].
+
+| **Cloud & DevOps** | **Backend & Lenguajes** | **Frontend & Web** | **Bases de Datos** |
+|:---:|:---:|:---:|:---:|
+| ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) |
+| ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=powerapps&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
+---
+
+### 📂 Proyectos Destacados
+
+* [cite_start]**App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud[cite: 31].
+* [cite_start]**API Ecommerce:** Backend RESTful desarrollado con C# y Entity Framework, enfocado en autenticación segura y rendimiento[cite: 32].
+
