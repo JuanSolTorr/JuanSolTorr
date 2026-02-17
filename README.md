@@ -71,5 +71,5 @@ Mi perfil es híbrido, combinando desarrollo robusto en Backend con agilidad en 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JuanSolTorr&theme=midnight-owl&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuanSolTorr&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
