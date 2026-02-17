@@ -20,13 +20,13 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un **Full Stack Developer** con base en Madrid, especializado en el ecosistema Microsoft y Arquitectura Cloud. Tengo experiencia sólida desarrollando aplicaciones con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL.
+Soy un **Full Stack Developer** con base en Madrid, especializado en el ecosistema Microsoft y Arquitectura Cloud. [cite_start]Tengo experiencia sólida desarrollando aplicaciones con **.NET Core y C#**, implementando APIs RESTful y optimizando bases de datos SQL[cite: 6, 22, 23, 24].
 
-Me diferencio por mi enfoque en la **calidad del código** (Testing/QA) y la capacidad de desplegar infraestructuras escalables en **Azure y AWS**.
+[cite_start]Me diferencio por mi enfoque en la **calidad del código** (Testing/QA) y la capacidad de desplegar infraestructuras escalables en **Azure y AWS**[cite: 2, 8, 25].
 
-* 💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend Python + Frontend Web).
-* 🎯 **Objetivo:** Proyectos de Arquitectura Cloud, Microservicios y soluciones de alto impacto.
-* 🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional).
+* [cite_start]💼 **Experiencia:** Full Stack Developer en **Uponor** (Backend C# + Frontend Web + Scrum)[cite: 21, 26].
+* [cite_start]🎯 **Objetivo:** Proyectos de Arquitectura Cloud, Microservicios y soluciones de alto impacto[cite: 9].
+* [cite_start]🗣️ **Idiomas:** Español (Nativo) e Inglés (B2+ Profesional)[cite: 41, 42].
 
 ---
 
@@ -42,8 +42,8 @@ Me diferencio por mi enfoque en la **calidad del código** (Testing/QA) y la cap
 
 ### 🎓 Formación Académica
 
-* 🎓 **Máster Full Stack & Cloud Computing** | Tajamar (2025)
-* 🎓 **Grado Superior Desarrollo de Aplicaciones Web** | Valle del Miro (2025)
+* 🎓 **Máster Full Stack & Cloud Computing** | [cite_start]Tajamar (2025) [cite: 34]
+* 🎓 **Grado Superior Desarrollo de Aplicaciones Web** | [cite_start]Valle del Miro (2025) [cite: 34]
 
 ---
 
@@ -58,11 +58,18 @@ Mi perfil es híbrido, combinando desarrollo robusto en Backend con agilidad en 
 | ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=powerapps&logoColor=white) | ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat&logo=scrumalliance&logoColor=white) | | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | |
 
 ---
 
 ### 📂 Proyectos Técnicos
 
-* **App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud.
-* **API Ecommerce:** Backend RESTful desarrollado con **C# y Entity Framework**, enfocado en autenticación segura (JWT) y optimización de rendimiento.
+* [cite_start]**App Gestión (.NET + Angular):** Aplicación Full Stack con arquitectura REST, base de datos SQL Server y despliegue en entorno Cloud[cite: 31].
+* [cite_start]**API Ecommerce:** Backend RESTful desarrollado con **C# y Entity Framework**, enfocado en autenticación segura y optimización de rendimiento[cite: 32].
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JuanSolTorr&theme=midnight-owl&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
